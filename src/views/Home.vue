@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+  
  <login-form> </login-form>
    
   </div>
